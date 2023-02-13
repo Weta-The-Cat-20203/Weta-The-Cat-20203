@@ -1,4 +1,4 @@
-- 👋 Hi im Blockyperp.
+- 👋 Hi im Weta.
 - 👀 im interested in Making Cool Stuff
 - 🌱 im currently learning Web Dev/Hacking
 - 💞️ im Looking to collaborate on Dev
